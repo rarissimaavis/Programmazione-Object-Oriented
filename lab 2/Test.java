@@ -26,7 +26,6 @@ public class Test
 		System.out.println(t.Perimetro());
 		System.out.println(t.Area());
 	}
-	
 }
 
 class Cerchio
