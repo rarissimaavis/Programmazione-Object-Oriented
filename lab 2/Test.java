@@ -53,11 +53,11 @@ class Cerchio
 	}
 	public float Perimetro()
 	{
-		return (float) 3.14*2*raggio;
+		return (float) (3.14*2*raggio);
 	}
 	public float Area()
 	{
-		return (float) 3.14*raggio*raggio;
+		return (float) (3.14*raggio*raggio);
 	}
 }
 
