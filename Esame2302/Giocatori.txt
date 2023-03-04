@@ -1,0 +1,4 @@
+Giocatore [codiceCartellino=0, nome=Mario, eta=22, stipendio=200000.0]
+Giocatore [codiceCartellino=1, nome=Luigi, eta=21, stipendio=150000.0]
+Giocatore [codiceCartellino=2, nome=Mattia, eta=19, stipendio=99000.0]
+Giocatore [codiceCartellino=3, nome=Marco, eta=23, stipendio=75000.0]
